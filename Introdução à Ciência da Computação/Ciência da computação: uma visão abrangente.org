@@ -1,1 +1,31 @@
-* 
+#+TITLE: Ciência da computação: uma visão abrangente
+#+AUTHOR: Glenn Brookshear
+#+LANGUAGE: pt
+#+OPTIONS: date:nil
+
+\newpage
+ 
+* Sumário :TOC:
+- [[#parte-0-introdução][Parte 0: Introdução]]
+  - [[#capítulo-0-introdução][Capítulo 0: Introdução]]
+    - [[#questões-sociais][Questões Sociais]]
+- [[#parte-1-arquitetura-de-máquina][Parte 1: Arquitetura de Máquina]]
+  - [[#capítulo-1-armazenamento-de-dados][Capítulo 1: Armazenamento de dados]]
+    - [[#questõesexercícios][Questões/exercícios]]
+
+* Parte 0: Introdução
+** Capítulo 0: Introdução
+*** Questões Sociais
+1. *Em geral, aceita-se a premissa de que a nossa sociedade é diferente do que teria sido se a revolução da computação não tivesse ocorrido. Nossa sociedade é /melhor/ do que teria sido sem essa revolução? É /pior/? Sua resposta seria diferente se sua posição fosse outra nessa sociedade?*
+2. *É aceitável participar da atual sociedade tecnológica sem fazer um esforço para conhecer os fundamentos dessa tecnologia? Por exmplo, os membros de uma democracia cujos votos geralmente determinam como a tecnologia será conduzida e utilizada têm a obrigação de conhecer essa tecnologia? A sua resposta depende de qual tacnologia está sendo considerada? Por exemplo, sua resposta será a mesma para a tecnologia nuclear e para a tecnologia da computação?*
+3. *Usando dinheiro vivo, os indivíduos sempre tiveram a opção de administrar os seus negócios financeiros sem taxa de serviço. No entanto, como a nossa economia está cada vez mais automatizada, as instituições financeiras cobram taxas pelo acesso aos seus sistemas automáticos. Há momentos em que essa cobrança ingringe, injustamente, o acesso de um indivíduo à economia? Por exmplo, suponha que um empregador remunere seus funcionários exclusivamente com cheques, e que todas as instituições financeiras cobrem uma taxa de serviço para cada cheque compensado ou depositado. Os funcionários estão sendo tratados injustamente? O que aconteceria se o empregador insistisse em pagar somente por meio de depósito direto?*
+4. *No contexto da televisão interativa, até que ponto uma concessionária terá direito de extrair de crianças (talvez utilizando jogos interativos) informações sobre sua família? Por exemplo, deve ser permitido à companhia obter de uma criança informação sobre o pergil de consumo de seus pais? E quanto à informação relativa à própria criança?*
+5. *Até que ponto um governo pode regulamentar a tecnologia da computação e suas aplicações? Por exemplo, consideremos os assuntos mencionados nas Questões 3 e 4. O que justificaria uma intervenção governamental?*
+6. *Até que ponto as nossas decisões, relativas à tecnologia em geral e à tecnoloiga da computação, em particular, afetarão as futuras gerações?*
+* Parte 1: Arquitetura de Máquina
+** Capítulo 1: Armazenamento de dados
+*** Questões/exercícios
+1. *Que configuração de /bits/ de entrada devem ser fornecidas ao circuito abaixo para que seja produzida uma saída 1?*
+[[./Imagens/Ciência da computaçã: uma visão abrangente/cap1ex1.jpg]]
+2. *No texto, afirmamos que a introduçãodo 1 na entrada inferioro do /flip-flop/ da figura (mantendo fixo o 0 para a entrada superior) forçará a saída do /flip-flop/ a ser 0. Descreva a sucess~ao de eventos que ocorreram neste caso, dentro do flip-flop*
+[[./Imagens/Ciência da computaçã: uma visão abrangente/cap1ex2.jpg]]
