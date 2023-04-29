@@ -1,4 +1,4 @@
-* Introdução à Ciência da Computação
+* Física Computacional
 ** Bibilografia
 *** Bibliografia básica
 + [[./Fundamentos da Física: Eletromagnetismo vol3.org][Fundamentos da Física: Eletromagnetismo vol. 3 - David Halliday]]
