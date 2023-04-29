@@ -1,5 +1,5 @@
 * Introdução à Ciência da Computação
-** Bibilografia
+** Bibliografia
 *** Bibliografia básica
 + [[./Ciência da computação: uma visão abrangente.org][Ciência da computação: uma visão abrangente - Glenn Brookshear]]
 + [[./Fundamentos da ciência da computação.org][Fundamentos da ciência da computação - Behrouz Forouzan]]

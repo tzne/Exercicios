@@ -1,5 +1,5 @@
 * Algorítmos e Técnicas de Programação I
-** Bibilografia
+** Bibliografia
 *** Bibliografia básica
 + [[./Fundamentos da programação de computadores.org][Fundamentos da programação de computadores - Ana Fernanda Gomes Ascencio]]
   

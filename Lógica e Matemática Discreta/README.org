@@ -1,7 +1,7 @@
 * Lógica & Matemática discreta
 Eu decidi fazer um único diretório pras duas matérias porque, além de serem muito parecidas, ambas têm bibliografia coincidente
 
-** Bibilografia
+** Bibliografia
 *** Bibliografia básica
 + [[./Iniciação à lógica matemática.org][Iniciação  à lógica matemática - Edgard de Alencar Filho]]
 + [[./Lógica e álgebra de Boole.org][Lógica e álgebra de Boole - Jacob Daghlian]]
