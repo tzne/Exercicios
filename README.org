@@ -1,29 +1,40 @@
 * README :TOC:
-- [[#algorítmos-e-técnicas-de-programação-i][Algorítmos e Técnicas de Programação I]]
-  - [[#bibliografia][Bibliografia]]
-- [[#física-computacional][Física computacional]]
-  - [[#bibliografia-1][Bibliografia]]
-- [[#introdução-à-ciência-da-computação][Introdução à Ciência da Computação]]
-  - [[#bibliografia-2][Bibliografia]]
-- [[#lógica--matemática-discreta][Lógica & Matemática Discreta]]
-  - [[#bibliografia-3][Bibliografia]]
+- [[#como-utilizar-o-repositório][Como utilizar o repositório?]]
+  - [[#dúvidas-e-discussões][Dúvidas e discussões]]
+  - [[#correções-e-sugestões][Correções e sugestões]]
+- [[#matérias][Matérias]]
+  - [[#algorítmos-e-técnicas-de-programação-i][Algorítmos e Técnicas de Programação I]]
+    - [[#bibliografia][Bibliografia]]
+  - [[#física-computacional][Física computacional]]
+    - [[#bibliografia-1][Bibliografia]]
+  - [[#introdução-à-ciência-da-computação][Introdução à Ciência da Computação]]
+    - [[#bibliografia-2][Bibliografia]]
+  - [[#lógica--matemática-discreta][Lógica & Matemática Discreta]]
+    - [[#bibliografia-3][Bibliografia]]
 
-* Algorítmos e Técnicas de Programação I
-** Bibliografia
+* Como utilizar o repositório?
+** Dúvidas e discussões
+Duvidas e discussões sobre a matéria devem ser postadas em [[https://github.com/tzne/Exercicios/issues][issues]]
+
+** Correções e sugestões
+Correções e sugestões devem ser postadas como [[https://github.com/tzne/Exercicios/pulls][pull request]]
+
+* Matérias
+** Algorítmos e Técnicas de Programação I
+*** Bibliografia
 + [[./Algorítimos e Técnicas de Programação/Fundamentos da programação de computadores.org][Fundamentos da programação de computadores - Ana Fernanda Gomes Ascencio]]
 
-* Física computacional
-** Bibliografia
+** Física computacional
+*** Bibliografia
 + [[./Física computacional/Fundamentos da Física: Eletromagnetismo vol3.org][Fundamentos da Física: Eletromagnetismo vol. 3 - David Halliday]]
 
-* Introdução à Ciência da Computação
-** Bibliografia
+** Introdução à Ciência da Computação
+*** Bibliografia
 + [[./Introdução à Ciência da Computação/Ciência da computação: uma visão abrangente.org][Ciência da computação: uma visão abrangente - Glenn Brookshear]]
 + [[./Introdução à Ciência da Computação/Fundamentos da ciência da computação.org][Fundamentos da ciência da computação - Behrouz Forouzan]]
 
-* Lógica & Matemática Discreta  
-** Bibliografia
+** Lógica & Matemática Discreta  
+*** Bibliografia
 + [[./Lógica e Matemática Discreta/Iniciação à lógica matemática.org][Iniciação  à lógica matemática - Edgard de Alencar Filho]]
 + [[./Lógica e Matemática Discreta/Lógica e álgebra de Boole.org][Lógica e álgebra de Boole - Jacob Daghlian]]
 + [[./Lógica e Matemática Discreta/Fundamentos matemáticos para a ciência da computação.org][Fundamentos matemáticos para a ciência da computação - Judith Gersting]]
-  
