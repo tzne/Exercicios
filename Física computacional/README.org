@@ -1,0 +1,11 @@
+* Introdução à Ciência da Computação
+** Bibilografia
+*** Bibliografia básica
++ [[./Fundamentos da Física: Eletromagnetismo vol3.org][Fundamentos da Física: Eletromagnetismo vol. 3 - David Halliday]]
++ 
+  
+*** Bibliografia complementar
++ Nada aqui ainda
+
+** Exercícios de sala
++ Ajude! Uppe os exercícios dos slides e listas por [[https://github.com/tzne/Exercicios/pulls][pull requests]]
