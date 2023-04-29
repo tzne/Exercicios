@@ -1,0 +1,14 @@
+* Lógica & Matemática discreta
+Eu decidi fazer um único diretório pras duas matérias porque, além de serem muito parecidas, ambas têm bibliografia coincidente
+
+** Bibilografia
+*** Bibliografia básica
++ [[./Iniciação à lógica matemática.org][Iniciação  à lógica matemática - Edgard de Alencar Filho]]
++ [[./Lógica e álgebra de Boole.org][Lógica e álgebra de Boole - Jacob Daghlian]]
++ [[./Fundamentos matemáticos para a ciência da computação.org][Fundamentos matemáticos para a ciência da computação - Judith Gersting]]
+  
+*** Bibliografia recomendada
++ Nada aqui ainda
+
+** Exercícios de sala
++ Ajude! Uppe os exercícios dos slides por [[https://github.com/tzne/Exercicios/pulls][pull requests]]
