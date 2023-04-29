@@ -1,0 +1,10 @@
+* Algorítmos e Técnicas de Programação I
+** Bibilografia
+*** Bibliografia básica
++ [[./Fundamentos da programação de computadores.org][Fundamentos da programação de computadores - Ana Fernanda Gomes Ascencio]]
+  
+*** Bibliografia complementar
++ Nada aqui ainda
+
+** Exercícios de sala
++ Ajude! Uppe os exercícios dos slides por [[https://github.com/tzne/Exercicios/pulls][pull requests]]
